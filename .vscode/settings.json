@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/Users/mohammad.kheirkhah/Desktop/neural-networks/ex00/bin/python",
+    "jupyter.jupyterServerType": "local",
+    "jupyter.notebookEditor.defaultKernel": ".jupyter/kernels/ex00",
+    "python.terminal.activateEnvInSelectedTerminal": true,
+    "jupyter.jupyterServerEndpoint": "http://localhost:8891/?token=6f10cd9842e1384a8708dd491ce9a5a8581e789503895ee3"
+}
